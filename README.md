@@ -8,4 +8,8 @@
 
 * HW_4 woodenML_pro
 
-* HW_5 boosting_pro
+* HW_5 ~boosting_pro~
+
+* HW_6 uplift
+
+* HW_7 kaggle_competition
